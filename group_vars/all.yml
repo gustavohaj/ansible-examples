@@ -1,0 +1,6 @@
+wp_username: wordpress_user
+wp_db_name: worpress_db
+wp_db_password: 123qwe
+wp_installation_dir: '/var/www/wordpress'
+
+
